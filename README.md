@@ -3,8 +3,7 @@
 
 Atualmente minhas ocupações são:
 
-- 🔭 Estagio como back-end na Conecta (https://www.conectaai.com/)
-- 🌱 Estudo Ciência da Computação na Universidade Federal Fluminense
+- 🔭 Trabalho como back-end na Conecta (https://www.conectaai.com/)
+- 🌱 Estou no último período de Ciência da Computação na Universidade Federal Fluminense
 
- Tenho interesse em desenvolvimento back-end e mobile, sendo Ruby on Rails e Flutter minhas tecnologias preferidas
-
+ Tenho interesse em desenvolvimento back-end e cloud, atualmente tenho aprendido bastante sobre AWS Lambda e ECS.
